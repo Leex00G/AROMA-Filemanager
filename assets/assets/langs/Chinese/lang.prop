@@ -1,0 +1,165 @@
+ok = OK
+yes = 确认
+no = NO
+done = 完成
+cancel = 取消
+tryagain = 重试
+exit = 退出
+about = 关于
+continue = 继续
+select = 选择
+close = Close
+
+canceling = 取消中...
+finishing = 完成...
+calculating = Calculating
+discovered = Discovered %s Files
+deleting = 正在删除 %s 
+moving = Moving %s of %s Files
+copying = Copying %s of %s Files
+progress.of = %s of %s
+permission.denied = 权限 Denied
+
+seconds = 秒
+minutes = 分
+hours = 时
+remaining = remaining
+
+mounting = Mounting Devices
+umounting = Reverting Devices
+exit.message = 确定退出文件管理?
+
+tools.newfolder = 新文件夹
+tools.favorite = 收藏
+tools.selectall = 选择
+tools.unselect = Deselect
+tools.copy = 复制
+tools.cut = 剪切
+tools.paste = 粘贴
+tools.menu = 菜单
+tools.delete = 删除
+tools.details = Details
+tools.chmod = 更改权限
+tools.rename = 重命名
+tools.favorite.add = 添加至收藏
+tools.favorite.del = 从收藏中移除
+tools.hiddenfile = Hide hidden files
+tools.hiddenfile.show = Show hidden files 
+tools.terminal = Open Console
+tools.shell = Run in Shell
+tools.extract = 解压 ZIP
+
+file.exists = File already exists
+file.exists.info = There is already a file with the same name in this location.
+overwrite.skip = 跳过
+overwrite.skipall = Skip All
+overwrite = 覆盖
+overwrite.all = Overwrite All
+
+disk.full = Disk Full
+disk.full.info = The storage is already full, do you want to skip this file?
+disk.full.info2 = The storage is already full, cannot do requested operation.
+
+newfolder = 创建新文件夹
+newfolder.insertname = Please insert a name to create a new folder
+newfolder.exist = There is already a file or folder with the same name as the folder name you specified.\
+\
+Please specify a different name.
+
+paste.location = Select location and press paste
+
+dir.root = Root
+dir.filecount = %s File
+dir.filecounts = %s Files
+
+selected.file = %i File selected
+selected.files = %i Files selected
+
+symlink = 链接
+symlink.error = Symlink error
+
+settings = 设置
+settings.calib = Calibrate Screen
+settings.reset = Reset Settings
+
+settings.toolbar = Toolbar 风格
+settings.toolbar.icontext = Icon and Text
+settings.toolbar.icononly = Icon only
+
+settings.fontsize = 字体大小
+settings.fontsize.small = 小
+settings.fontsize.medium = 中
+settings.fontsize.big = 大
+
+settings.colorspace = Set Color Space
+settings.colorspace.rgba = RGBA
+settings.colorspace.abgr = ABGR
+settings.colorspace.argb = ARGB
+settings.colorspace.bgra = BGRA
+
+settings.vibration = Haptic Feedback Intensity
+settings.vibration.none = No Vibration
+settings.vibration.low = Low Vibration
+settings.vibration.medium = Medium Vibration
+settings.vibration.high = High Vibration
+
+settings.fontfamily = Font Family
+settings.iconset = Iconset
+settings.themes = 主题
+settings.lang = 语言
+
+settings.trans = Transition Animation
+settings.trans.0 = No Transition
+settings.trans.1 = Fast
+settings.trans.2 = Normal
+settings.trans.3 = Smooth
+settings.trans.4 = Extra Smooth
+
+settings.mount = 挂载 Config
+settings.mount.all = Automount all devices on start
+settings.mount.none = None
+
+settings.reset.msg=Are you sure you want to reset your settings?
+
+newfolder.error = Cannot create a new folder
+
+rename = Rename File
+rename.insertname = Please insert a new filename to rename this file
+rename.exist = There is already a file or folder with the same name as the item name you specified.\
+\
+Please specify a different name.
+rename.error = 无法重命名文件
+
+paste.error = Paste Error
+paste.subfolder_paste = The destination folder is a subfolder of the source folder.\
+\
+Try to paste it in another location.
+paste.nofile = There is no file to paste here
+
+copy.prepare = Preparing to Copy
+move.prepare = Preparing to Move
+delete.prepare = Preparing to Delete
+
+delete.title = 删除文件
+delete.message = Are you sure you want to permanently delete %s items?
+
+extract.error = Extract Error
+extract.invalidfile = Selected file is not valid zip archive
+extract.extractfile = Extracting Zip
+extract.extractof = Extracting %i of %i
+extract.preparing = Preparing to Extract
+extract.cancelmsg = Are you sure you want to cancel extraction process?
+
+tools.chmod.read = 读
+tools.chmod.write = 写
+tools.chmod.exec = Exec
+tools.chmod.user = User
+tools.chmod.group = Group
+tools.chmod.others = Others
+tools.chmod.setuid = SetUID
+tools.chmod.setgid = SetGID
+tools.chmod.sticky = Sticky
+
+tools.terminal.title = Terminal
+tools.terminal.terminate = Terminate
+tools.terminal.terminate_info = Shell is still running... Are you sure you want to terminate it?
