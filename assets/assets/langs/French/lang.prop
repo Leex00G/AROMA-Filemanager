@@ -1,0 +1,165 @@
+﻿ok = OK
+yes = Oui
+no = Non
+done = Fait
+cancel = Annuler
+tryagain = Essayer de nouveau
+exit = Sortie
+about = A propos
+continue = Continuer
+select = Selectionner
+close = Fermer
+
+canceling = Annulation...
+finishing = Finition...
+calculating = Calcul
+discovered = Trouve %s Fichiers
+deleting = Effacement %s Fichiers
+moving = Deplacement %s de %s Fichiers
+copying = Copie %s de %s Fichiers
+progress.of = %s de %s
+permission.denied = Permission Refusee
+
+seconds = secondes
+minutes = minutes
+hours = heures
+remaining = restant
+
+mounting = Montage Appareils
+umounting = Demontage Appareils
+exit.message = Etes vous sur de vouloir quitter filemanager?
+
+tools.newfolder = Creer Dossier
+tools.favorite = Favoris
+tools.selectall = Cocher Tout
+tools.unselect = Decocher
+tools.copy = Copier
+tools.cut = Couper
+tools.paste = Coller
+tools.menu = Menu
+tools.delete = Effacer
+tools.details = Details
+tools.chmod = Changer Permission
+tools.rename = Renommer
+tools.favorite.add = Ajouter aux favoris
+tools.favorite.del = Retirer des favoris
+tools.hiddenfile = Cacher fichiers caches
+tools.hiddenfile.show = Voir fichiers caches 
+tools.terminal = Ouvrir Terminal
+tools.shell = Executer dans Shell
+tools.extract = Extraire le Zip
+
+file.exists = Fichier deja existant
+file.exists.info = Il y a un fichier portant le meme nom dans cette location.
+overwrite.skip = Annuler
+overwrite.skipall = Annuler Tout
+overwrite = Ecraser
+overwrite.all = Ecraser Tout
+
+disk.full = Disque Plein
+disk.full.info = Le stockage est deja plein, voulez abandonner ce fichier?
+disk.full.info2 = Le stockage est deja plein, Ne peut pas faire l'operation requise.
+
+newfolder = Creer nouveau dossier 
+newfolder.insertname = SVP inserer un nom pour creer le nouveau dossier.
+newfolder.exist = Il y a deja un fichier ou dossier avec le mom que vous avez specifie.\
+\
+SVP donner un nom different.
+
+paste.location = Selectionner un emplacement et presser coller
+
+dir.root = Root
+dir.filecount = %s Fichier
+dir.filecounts = %s Fichiers
+
+selected.file = %i Fichier selectionne
+selected.files = %i Fichiers selectionnes
+
+symlink = Symlink
+symlink.error = Erreur Symlink 
+
+settings = Reglages
+settings.calib = Calibrer Ecran
+settings.reset = Reglages d'origine
+
+settings.toolbar = Style barre a outils
+settings.toolbar.icontext = Icone et Texte
+settings.toolbar.icononly = Icone seulement
+
+settings.fontsize = Taille de police
+settings.fontsize.small = Petit
+settings.fontsize.medium = Moyen
+settings.fontsize.big = Gros
+
+settings.colorspace = Regler espace couleur
+settings.colorspace.rgba = RGBA
+settings.colorspace.abgr = ABGR
+settings.colorspace.argb = ARGB
+settings.colorspace.bgra = BGRA
+
+settings.vibration = Sensibilite du toucher tactile
+settings.vibration.none = Pas de Vibration
+settings.vibration.low = Vibration faible
+settings.vibration.medium = Vibration moyenne
+settings.vibration.high = Vibration elevee
+
+settings.fontfamily = Style de police
+settings.iconset = style icone
+settings.themes = Themes
+settings.lang = Langages
+
+settings.trans = Animation de transition 
+settings.trans.0 = Pas de transition
+settings.trans.1 = Rapide
+settings.trans.2 = Normal
+settings.trans.3 = Lent
+settings.trans.4 = Extra lent
+
+settings.mount = Montage Config
+settings.mount.all = Automontage de tout appareils au demarrage
+settings.mount.none = Rien
+
+settings.reset.msg=Etes vous sur de vouloir reinitialiser vos reglages?
+
+newfolder.error = Ne peut pas creer de nouveau dossier
+
+rename = Renommer Fichier
+rename.insertname = SVP selectionner un nouveau nom de fichier pour renommer ce fichier
+rename.exist = Il existe deja un fichier ou un dossier avec le meme nom que le nom de l'element que vous avez specifie.\
+\
+SVP specifier un nom different.
+rename.error = Ne peut pas renommer le fichier
+
+paste.error = Erreur de collage
+paste.subfolder_paste = Le dossier de destination est un sous-dossier du dossier source.\
+\
+Essayer de le coller a un autre endroit.
+paste.nofile = Il n y a pas de fichier a coller ici.
+
+copy.prepare = Preparation de Copie
+move.prepare = Preparation de deplacement
+delete.prepare = Preparation d effacement
+
+delete.title = Effacer fichier
+delete.message = Etes-vous sur de vouloir supprimer definitivement %s elements?
+
+extract.error = Erreur Extraction
+extract.invalidfile = Le fichier choisi n est pas une archive zip valide 
+extract.extractfile = Extraction du Zip
+extract.extractof = Extraction %i de %i
+extract.preparing = Preparation pour extraire
+extract.cancelmsg = Etes vous sur de vouloir annuler le processus d extraction?
+
+tools.chmod.read = Lire
+tools.chmod.write = Ecrire
+tools.chmod.exec = Exec
+tools.chmod.user = Utilisateur
+tools.chmod.group = Group
+tools.chmod.others = Autres
+tools.chmod.setuid = SetUID
+tools.chmod.setgid = SetGID
+tools.chmod.sticky = Gluant
+
+tools.terminal.title = Terminal
+tools.terminal.terminate = Terminer
+tools.terminal.terminate_info = Shell est toujours en cours ... Etes-vous sur que vous voulez y mettre fin?
